@@ -1,0 +1,29 @@
+_repo: Index-of-The-Project-Gutenberg-Works-of-Lewis-Carroll_59111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of The Project Gutenberg Works of Lewis Carroll
+url: http://www.gutenberg.org/ebooks/59111
